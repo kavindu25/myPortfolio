@@ -5,6 +5,6 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <p>welcome</p>
+    <h1><center>welcome!</center></h1>
   )
 }

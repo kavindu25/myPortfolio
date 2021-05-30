@@ -34,7 +34,7 @@ export default function FirstPost() {
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Prince of Wales' College</h3>
                             <div class="subheading mb-3">Passed G.C.E Ordinary Level & G.C.E Advanced Level</div>
-                            <p>GPA: 3.56</p>
+                            <p>Junior Prefect -2014</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">January 2005 - August 2018</span></div>
                     </div>
