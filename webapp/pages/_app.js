@@ -1,7 +1,11 @@
-import '../styles/globals.css'
-import App from "next/app"
-import Link from "next/link"
-import Head from 'next/head'
+import '../styles/globals.css';
+import App from "next/app";
+import Link from "next/link";
+import Head from 'next/head';
+import "@fortawesome/fontawesome-svg-core/styles.css";
+import { config } from "@fortawesome/fontawesome-svg-core";
+
+config.autoAddCss = false;
 
 //import '../public/scripts.js'
 

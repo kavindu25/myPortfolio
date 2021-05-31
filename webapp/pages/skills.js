@@ -12,7 +12,6 @@ export default function FirstPost() {
                         <li className="list-inline-item"><i className="fab fa-node-js"></i></li>
                         <li className="list-inline-item"><i className="fab fa-python"></i></li>
                         <li className="list-inline-item"><i className="fab fa-java"></i></li>
-                        <li className="list-inline-item"><i className="fab fa-wordpress"></i></li>
                         <li className="list-inline-item"><i className="fab fa-git"></i></li>
                         <li className="list-inline-item"><i className="fab fa-docker"></i></li>
                         <li className="list-inline-item"><i className="fab fa-npm"></i></li>
