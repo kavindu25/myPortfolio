@@ -36,7 +36,7 @@ function MyApp({ Component, pageProps }) {
                     <li className="nav-item"><Link href="/education"><a className="nav-link js-scroll-trigger">Education</a></Link></li>
                     <li className="nav-item"><Link href="/skills"><a className="nav-link js-scroll-trigger">Skills</a></Link></li>
                     <li className="nav-item"><Link href="/interests"><a className="nav-link js-scroll-trigger">Interests</a></Link></li>
-                    <li className="nav-item"><Link href="/awards"><a className="nav-link js-scroll-trigger">Awards</a></Link></li>
+                    {/*<li className="nav-item"><Link href="/awards"><a className="nav-link js-scroll-trigger">Awards</a></Link></li>*/}
                 </ul>
             </div>
         </nav>
