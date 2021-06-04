@@ -7,14 +7,15 @@ export default function FirstPost() {
                         <li className="list-inline-item"><i className="fab fa-html5"></i></li>
                         <li className="list-inline-item"><i className="fab fa-css3-alt"></i></li>
                         <li className="list-inline-item"><i className="fab fa-js-square"></i></li>
-                        <li className="list-inline-item"><i className="fab fa-angular"></i></li>
                         <li className="list-inline-item"><i className="fab fa-react"></i></li>
                         <li className="list-inline-item"><i className="fab fa-node-js"></i></li>
                         <li className="list-inline-item"><i className="fab fa-python"></i></li>
                         <li className="list-inline-item"><i className="fab fa-java"></i></li>
+                        <li className="list-inline-item"><i className="fab fa-php"></i></li>
                         <li className="list-inline-item"><i className="fab fa-git"></i></li>
                         <li className="list-inline-item"><i className="fab fa-docker"></i></li>
                         <li className="list-inline-item"><i className="fab fa-npm"></i></li>
+                        
                     </ul>
                     <div className="subheading mb-3">Soft Skills</div>
                     <ul className="fa-ul mb-0">
