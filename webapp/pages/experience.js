@@ -5,7 +5,7 @@ export default function FirstPost() {
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Smart Billboard Advertising System</h3>
-                            <div class="subheading mb-3">Technologies used:- HTML, CSS, JavaScript, React, Tensorflow.js</div>
+                            <div class="subheading mb-3">Technologies used:- HTML, CSS, React.js, Tensorflow.js, Firebase</div>
                             <p>A billboard advertising system where audience is shown relevant advertisements through outfit detection.</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">October 2020 - April 2021</span></div>

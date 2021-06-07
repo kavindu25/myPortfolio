@@ -6,7 +6,7 @@ export default function FirstPost() {
                 <span class="text-primary"> de Alwis</span>
             </h1>
             <div class="subheading mb-5">
-                CS UNDERGRADUATE · SRI LANKA · (+94)0714322888 ·
+                Computer Science Undergraduate · (+94)0714322888 ·
                 <a href="mailto:kavindudealwis@gmail.com"> kavindudealwis@gmail.com</a>
             </div>
             <p class="lead mb-5">I am a computer science undergraduate with eagerness to explore new technologies related to computer science. Willing to help the community using suitable technologies.  </p>
