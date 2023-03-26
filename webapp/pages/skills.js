@@ -2,7 +2,7 @@ export default function FirstPost() {
     return <section className="resume-section" id="skills">
                 <div className="resume-section-content">
                     <h2 className="mb-5">Skills</h2>
-                    <div className="subheading mb-3">Programming Languages & Tools</div>
+                    <div className="subheading mb-3">Programming Languages, Libraries & Other Tools</div>
                     <ul className="list-inline dev-icons">
                         <li className="list-inline-item"><i className="fab fa-html5"></i></li>
                         <li className="list-inline-item"><i className="fab fa-css3-alt"></i></li>
@@ -11,10 +11,13 @@ export default function FirstPost() {
                         <li className="list-inline-item"><i className="fab fa-node-js"></i></li>
                         <li className="list-inline-item"><i className="fab fa-python"></i></li>
                         <li className="list-inline-item"><i className="fab fa-java"></i></li>
+                        <li className="list-inline-item"><i className="fab fa-swift"></i></li>
                         <li className="list-inline-item"><i className="fab fa-php"></i></li>
+                        <li className="list-inline-item"><i className="fab fa-ethereum"></i></li>
                         <li className="list-inline-item"><i className="fab fa-git"></i></li>
-                        <li className="list-inline-item"><i className="fab fa-docker"></i></li>
+                        {/* <li className="list-inline-item"><i className="fab fa-docker"></i></li> */}
                         <li className="list-inline-item"><i className="fab fa-npm"></i></li>
+            
                         
                     </ul>
                     <div className="subheading mb-3">Soft Skills</div>

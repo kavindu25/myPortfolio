@@ -9,7 +9,7 @@ export default function FirstPost() {
                 Computer Science Undergraduate · (+94)0714322888 ·
                 <a href="mailto:kavindudealwis@gmail.com"> kavindudealwis@gmail.com</a>
             </div>
-            <p class="lead mb-5">I am a computer science undergraduate with eagerness to explore new technologies related to computer science. Willing to help the community using suitable technologies.  </p>
+            <p class="lead mb-5">I am a final year computer science undergraduate with eagerness to explore new technologies related to computer science. Currently interested and focused in blockchain development. Willing to help the community using appropriate technologies.  </p>
             <div class="social-icons">
                 <a class="social-icon" href="https://www.linkedin.com/in/kavindu-de-alwis-9a2a571b1/"><i class="fab fa-linkedin-in"></i></a>
                 <a class="social-icon" href="https://github.com/kavindu25"><i class="fab fa-github"></i></a>

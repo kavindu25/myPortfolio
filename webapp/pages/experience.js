@@ -4,6 +4,14 @@ export default function FirstPost() {
                     <h2 class="mb-5">Projects</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
+                            <h3 class="mb-0">Establishing End Users’ Trust in Custodial Wallets Through Liquidity Assurance (Final Year Project)</h3>
+                            <div class="subheading mb-3">Technologies used:- Solidity, Web3.js, Ethereum, Truffle, Ganache </div>
+                            <p>A system that takes control over the wallet creation part of the existing custodial wallet creation platforms and provide liquidity assurance to the wallet owners that their assets are stored safely at any given time.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">September 2022 - Present</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
                             <h3 class="mb-0">Smart Billboard Advertising System</h3>
                             <div class="subheading mb-3">Technologies used:- HTML, CSS, React.js, Tensorflow.js, Firebase</div>
                             <p>A billboard advertising system where audience is shown relevant advertisements through outfit detection.</p>

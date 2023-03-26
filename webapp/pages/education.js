@@ -6,25 +6,27 @@ export default function FirstPost() {
                         <div class="flex-grow-1">
                             <h3 class="mb-0">University of Westminster</h3>
                             <div class="subheading mb-3">Bachelor of Science</div>
-                            <div>Completed modules -</div>
+                            <div>Some of the Completed modules -</div>
                             <ul>
-                                <li>1 Year</li>
-                                <ul>
+                                <li>Web Design and Development</li>
+                                <li>Mathematics for Computing</li>
+                                <li>Object Oriented Programming</li>
+                                <li>Client Server Architecture</li>
+                                <li>Algorithms: Theory, Design & Implementation</li>
+                                <li>Server Side Web Development</li>
+                                {/* <ul>
                                     <li>Programming Principals</li>
                                     <li>Web Design and Development</li>
                                     <li>Computer Science Fundementals</li>
                                     <li>Computer Science Practice</li>
-                                    <li>Mathematics for Computing</li>
+                                    
                                 </ul>
                                 <li>2 Year</li>
                                 <ul>
-                                    <li>Object Oriented Programming</li>
                                     <li>Database Systems</li>
-                                    <li>Client Server Architecture</li>
                                     <li>Software Development Group Project</li>
                                     <li>Server Side Web Development</li>
-                                    <li>Algorithms: Theory, Design & Implementation</li>
-                                </ul>
+                                </ul> */}
                             </ul>
                             {/*<p>GPA: 3.23</p>*/}
                         </div>
